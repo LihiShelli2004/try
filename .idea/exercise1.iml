@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="extra1" />
+    <orderEntry type="module" module-name="strings" />
+    <orderEntry type="module" module-name="lib" />
+    <orderEntry type="module" module-name="library" />
+    <orderEntry type="module" module-name="conditionals" />
+    <orderEntry type="module" module-name="debug" />
+    <orderEntry type="module" module-name="loops" />
+    <orderEntry type="module" module-name="lists" />
+    <orderEntry type="module" module-name="functions" />
+    <orderEntry type="module" module-name="modules" />
+    <orderEntry type="module" module-name="2D lists" />
+    <orderEntry type="module" module-name="personal_project" />
+    <orderEntry type="module" module-name="personal project syber" />
+    <orderEntry type="module" module-name="personal project cyebr" />
+    <orderEntry type="module" module-name="git" />
+  </component>
+</module>

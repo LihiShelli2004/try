@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2D lists/.idea/2D lists.iml" filepath="$PROJECT_DIR$/../2D lists/.idea/2D lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conditionals/.idea/conditionals.iml" filepath="$PROJECT_DIR$/../conditionals/.idea/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../debug/.idea/debug.iml" filepath="$PROJECT_DIR$/../debug/.idea/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercise1.iml" filepath="$PROJECT_DIR$/.idea/exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../extra1/.idea/extra1.iml" filepath="$PROJECT_DIR$/../extra1/.idea/extra1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../functions/.idea/functions.iml" filepath="$PROJECT_DIR$/../functions/.idea/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git/.idea/git.iml" filepath="$PROJECT_DIR$/../git/.idea/git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library/.idea/library.iml" filepath="$PROJECT_DIR$/../library/.idea/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lists/.idea/lists.iml" filepath="$PROJECT_DIR$/../lists/.idea/lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../loops/.idea/loops.iml" filepath="$PROJECT_DIR$/../loops/.idea/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/.idea/modules.iml" filepath="$PROJECT_DIR$/../modules/.idea/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../personal project cyebr/.idea/personal project cyebr.iml" filepath="$PROJECT_DIR$/../personal project cyebr/.idea/personal project cyebr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../personal project syber/.idea/personal project syber.iml" filepath="$PROJECT_DIR$/../personal project syber/.idea/personal project syber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../personal_project/.idea/personal_project.iml" filepath="$PROJECT_DIR$/../personal_project/.idea/personal_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../strings/.idea/strings.iml" filepath="$PROJECT_DIR$/../strings/.idea/strings.iml" />
+    </modules>
+  </component>
+</project>
